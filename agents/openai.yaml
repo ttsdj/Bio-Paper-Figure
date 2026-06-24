@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bio Paper Figure"
+  short_description: "Create rigorous Nature-style scientific data figures."
+  default_prompt: "Use $bio-paper-figure to generate a publication-ready biological data figure from my conclusion and data files."
