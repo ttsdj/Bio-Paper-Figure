@@ -1,5 +1,5 @@
 # Bio-Paper-Figure
-
+针对于生物领域的插图，生成的风格注重简洁大方且对于图片的格式进行了严格的约束
 Create rigorous, Nature-style biological research figures from manuscript conclusions, result files, variables, and statistical requirements.
 
 This repository contains a Codex skill named `bio-paper-figure`.
